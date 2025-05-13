@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+sentence-transformers==3.1.1
+faiss-cpu==1.8.0
+transformers==4.44.2
+torch==2.4.1
+pandas==2.2.2
+numpy==1.26.4
+pydantic==2.8.2
+typing-extensions==4.12.2
+spacy==3.7.6
+requests==2.32.3

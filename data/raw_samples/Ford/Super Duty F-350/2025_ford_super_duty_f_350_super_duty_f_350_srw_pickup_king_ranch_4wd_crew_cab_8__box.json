@@ -1,0 +1,1086 @@
+{
+  "chromeStyle": {
+    "name": "Super Duty F-350 SRW Pickup King Ranch 4WD Crew Cab 8' Box",
+    "base_msrp": 81060,
+    "year": "2025",
+    "specsSubmodel": {
+      "configuration": {
+        "style": {
+          "styleNameWithoutTrim": "4WD Crew Cab 8' Box",
+          "trimName": "King Ranch"
+        },
+        "standardEquipment": [
+          {
+            "headerName": "MECHANICAL",
+            "description": "Engine: 7.3L 2V DEVCT NA PFI V8 Gas -inc: 410 Amp Dual Alternators, 250 Amp + 160 Amp (STD)"
+          },
+          {
+            "headerName": "MECHANICAL",
+            "description": "Transmission: TorqShift 10-Speed Automatic -inc: SelectShift and selectable drive modes: normal, eco, slippery roads, tow/haul and off-road (STD)"
+          },
+          {
+            "headerName": "MECHANICAL",
+            "description": "Electronic-Locking w/3.73 Axle Ratio (STD)"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "50-State Emissions System"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Transmission w/Oil Cooler"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Electronic Transfer Case"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Part-Time Four-Wheel Drive"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Driver Selectable Rear Locking Differential"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "68-Amp/Hr 750CCA Maintenance-Free Battery w/Run Down Protection"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Dual 250 Amp Alternator"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Trailer Wiring Harness"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Class V Towing Equipment -inc: Hitch, Brake Controller and Trailer Sway Control"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "4796# Maximum Payload"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "GVWR: 11,900 lb Payload Package"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "HD Gas-Pressurized Shock Absorbers"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Front Anti-Roll Bar"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Firm Suspension"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Hydraulic Power-Assist Steering"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Single Stainless Steel Exhaust"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "48 Gal. Fuel Tank"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Auto Locking Hubs"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Front Suspension w/Coil Springs"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Solid Axle Rear Suspension w/Leaf Springs"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "4-Wheel Disc Brakes w/4-Wheel ABS, Front And Rear Vented Discs, Brake Assist and Hill Hold Control"
+          },
+          {
+            "headerName": "EXTERIOR",
+            "description": "Wheels: 20\" Bright Machined Cast Aluminum -inc: light caribou painted pockets and light caribou wheel ornaments w/King Ranch logo (STD)"
+          },
+          {
+            "headerName": "EXTERIOR",
+            "description": "Tires: LT275/65Rx20E BSW A/T (4) -inc: Spare may not be the same as road tire (STD)"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Regular Box Style"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Steel Spare Wheel"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Full-Size Spare Tire Stored Underbody w/Crankdown"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Non-Metallic Paint"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Colored Front Bumper w/Colored Rub Strip/Fascia Accent and 2 Tow Hooks"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Colored Rear Step Bumper"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Black Side Windows Trim and Black Front Windshield Trim"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Body-Colored Door Handles"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Black Power Heated Side Mirrors w/Convex Spotter, Power Folding and Turn Signal Indicator"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Power Extendable Trailer Style Mirrors"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Power Rear Window w/Defroster"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Rain Detecting Variable Intermittent Wipers"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Deep Tinted Glass"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Aluminum Panels"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Power Running Boards"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Body-Colored Grille w/Chrome Accents"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Integrated Tailgate Step"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Power Open And Close Tailgate Rear Cargo Access"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Tailgate/Rear Door Lock Included w/Power Door Locks"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Boxside Steps"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Cargo Lamp w/High Mount Stop Light"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Perimeter/Approach Lights"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Front Fog Lamps"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Headlights-Automatic Highbeams"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Autolamp Auto On/Off Reflector Led Low/High Beam Auto High-Beam Daytime Running Lights Preference Setting Headlamps w/Delay-Off"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Radio w/Seek-Scan, Clock and Speed Compensated Volume Control"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Radio: B&O Unleashed Sound System by Bang & Olufsen -inc: premium AM/FM MP3 player and HD Radio w/14 speakers including subwoofer"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Fixed Antenna"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Digital Signal Processor"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "SiriusXM Radio w/360L -inc: 3-month prepaid subscription, Service is not available in Alaska and Hawaii, SiriusXM audio and data services each require a subscription sold separately, or as a package, by SiriusXM Radio Inc, If you decide to continue service after your trial, the subscription plan you choose will automatically renew thereafter and you will be charged according to your chosen payment method at then-current rates, Fees and taxes apply, To cancel you must call SiriusXM at 1-866-635-2349, See SiriusXM customer agreement for complete terms at www.siriusxm.com, All fees and programming subject to change, SiriusXM and all related marks and logos are trademarks of SiriusXM Radio Inc"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "SYNC 4 w/Enhanced Voice Recognition -inc: 12\" LCD capacitive touchscreen w/swipe capability, information on demand panel, wireless phone connection, cloud connected, AppLink w/app catalog, 911 Assist, Apple CarPlay and Android Auto compatibility, digital owner's manual, conversational voice command recognition and connected navigation w/complimentary 1-year trial for eligible vehicles that begins on the new vehicle warranty start date, Customers must unlock the navigation service trial by activating the eligible vehicle w/a FordPass member account, If not subscribed by the end of the complimentary period, the connected navigation service will revert to a moving-map and active routing will no longer be available, Connected service and features depend on compatible AT&T network availability, Evolving technology/cellular networks/vehicle capability may limit functionality and prevent operation of connected features, FordPass app, compatible w/select smartphone platforms, is available via a download, Message and data rates may apply"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "2 LCD Monitors In The Front"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Siriusxm Traffic Real-Time Traffic Display"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Front Seats w/Leatherette Back Material and Power 4-Way Driver Lumbar"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "8-Way Driver Seat -inc: Manual Articulating Upper Backrest and Power 4-Way Lumbar Support"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "2-Way Passenger Seat -inc: Manual Articulating Upper Backrest and Power 4-Way Lumbar Support"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "60-40 Folding Split-Bench Front Facing Heated Fold-Up Cushion Rear Seat"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Power Tilt/Telescoping Steering Column"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Gauges -inc: Speedometer, Odometer, Oil Pressure, Engine Coolant Temp, Tachometer, Inclinometer, Transmission Fluid Temp, Engine Hour Meter, Trip Odometer and Trip Computer"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Power Rear Windows"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "FordPass Connect 5G Mobile Hotspot Internet Access"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Heated Leather Steering Wheel w/Auto Tilt-Away"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Front Cupholder"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Rear Cupholder"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "4 12V DC Power Outlets"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Compass"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Remote Keyless Entry w/Integrated Key Transmitter, Illuminated Entry and Panic Button"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Proximity Key For Doors And Push Button Start"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Garage Door Transmitter"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Cruise Control w/Steering Wheel Controls"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Adaptive Cruise Control with Stop-and-Go"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "HVAC -inc: Underseat Ducts and Console Ducts"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Dual Zone Front Automatic Air Conditioning w/Steering Wheel Controls"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Illuminated Locking Glove Box"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Full Cloth Headliner"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Urethane Gear Shifter Material"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Interior Trim -inc: Metal-Look Instrument Panel Insert, Genuine Wood/Chrome Door Panel Insert, Genuine Wood/Leather Console Insert and Chrome/Metal-Look Interior Accents"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Leather Door Trim Insert"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Unique King Ranch Leather 40/Console/40 Seats -inc: multi-contour Kingsville Antique Affect leather seating surfaces, dual integrated cupholders in armrest, 2 outboard head restraints, heated/ventilated seating, 8-way power driver and passenger seat (4-way power-adjustable track, 2-way power recline and 2-way power lumbar), 2-way adjustable driver/passenger headrests and easy entry driver's seat w/memory"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Day-Night Auto-Dimming Rearview Mirror"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Driver And Passenger Visor Vanity Mirrors w/Driver And Passenger Illumination"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Full Overhead Console w/Storage, 4 12V DC Power Outlets and 2 Interior 120V AC Power Outlets"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Fade-To-Off Interior Lighting"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Front And Rear Map Lights"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Full Carpet Floor Covering -inc: Carpet Front And Rear Floor Mats"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Cab Mounted Cargo Lights"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Smart Device Remote Engine Start"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "FOB Controls -inc: Keyfob Cargo Access and Keyfob Remote Start"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Integrated Navigation System w/Voice Activation"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Memory Settings -inc: Door Mirrors, Steering Wheel and Pedals"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Flow-Through Console -inc: 120V/400W outlet in rear"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Instrument Panel Covered Bin, Dashboard Storage, Driver / Passenger And Rear Door Bins and Locking 2nd Row Underseat Storage"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Power 1st Row Windows w/Driver And Passenger 1-Touch Up/Down"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Delayed Accessory Power"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Power Door Locks w/Autolock Feature"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Power Adjustable Pedals"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Driver Information Center"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Trip Computer"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Outside Temp Gauge"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Digital/Analog Appearance"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Head-Up Display"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Manual Adjustable Rear Head Restraints"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "2 Seatback Storage Pockets"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Front Center Armrest and Rear Center Armrest"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Perimeter Alarm"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Securilock Anti-Theft Ignition (pats) Immobilizer"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Air Filtration"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "4 12V DC Power Outlets and 2 Interior 120V AC Power Outlets"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Lane Centering"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "AdvanceTrac w/Roll Stability Control Electronic Stability Control (ESC) And Roll Stability Control (RSC)"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "ABS And Driveline Traction Control"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Side Impact Beams"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Dual Stage Driver And Passenger Seat-Mounted Side Airbags"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Collision Mitigation-Front"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Aerial View Camera System"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Front And Rear Parking Sensors"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "BLIS with Trailer Tow Coverage Blind Spot"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "PCA with AEB and Intersection Assist"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Ford Co-Pilot360 - Reverse Brake Assist"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Lane Keeping Alert Lane Keeping Assist"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Lane Keeping Alert Lane Departure Warning"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Collision Warning-Front"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Driver Monitoring-Alert"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Tire Specific Low Tire Pressure Warning"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Safety Canopy System Curtain 1st And 2nd Row Airbags"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3 Point and Height Adjusters"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Dual Stage Driver And Passenger Front Airbags"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Rear Child Safety Locks"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Ford Co-Pilot360 - Reverse Camera Back-Up Camera"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Front Camera"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Cargo Bed Camera"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Left Side Camera"
+          },
+          {
+            "headerName": "ADDITIONAL EQUIPMENT",
+            "description": "Right Side Camera"
+          }
+        ],
+        "structuredConsumerInformation": [
+          {
+            "typeName": "Warranty",
+            "items": [
+              {
+                "name": "Basic Years",
+                "value": "3"
+              },
+              {
+                "name": "Basic Miles/km",
+                "value": "36,000"
+              },
+              {
+                "name": "Drivetrain Years",
+                "value": "5"
+              },
+              {
+                "name": "Drivetrain Miles/km",
+                "value": "60,000"
+              },
+              {
+                "name": "Corrosion Years",
+                "value": "5"
+              },
+              {
+                "name": "Corrosion Miles/km",
+                "value": "Unlimited"
+              },
+              {
+                "name": "Roadside Assistance Years",
+                "value": "5"
+              },
+              {
+                "name": "Roadside Assistance Miles/km",
+                "value": "60,000"
+              }
+            ]
+          },
+          {
+            "typeName": "Recall"
+          }
+        ],
+        "technicalSpecifications": [
+          {
+            "value": "Four Wheel Drive",
+            "ConsumerFriendlyTitleName": "Drivetrain",
+            "ConsumerFriendlyHeaderName": "Vehicle",
+            "MOSVisible": true
+          },
+          {
+            "value": "99N",
+            "ConsumerFriendlyTitleName": "Engine Order Code",
+            "ConsumerFriendlyHeaderName": "Engine",
+            "MOSVisible": true
+          },
+          {
+            "value": "Regular Unleaded V-8",
+            "ConsumerFriendlyTitleName": "Engine Type and Required Fuel",
+            "ConsumerFriendlyHeaderName": "Engine",
+            "MOSVisible": true
+          },
+          {
+            "value": "7.3 L/445",
+            "ConsumerFriendlyTitleName": "Displacement (liters/cubic inches)",
+            "ConsumerFriendlyHeaderName": "Engine",
+            "MOSVisible": true
+          },
+          {
+            "value": "Sequential MPI",
+            "ConsumerFriendlyTitleName": "Fuel System",
+            "ConsumerFriendlyHeaderName": "Engine",
+            "MOSVisible": true
+          },
+          {
+            "value": "430 @ 5500",
+            "ConsumerFriendlyTitleName": "Maximum Horsepower @ RPM",
+            "ConsumerFriendlyHeaderName": "Engine",
+            "MOSVisible": true
+          },
+          {
+            "value": "485 @ 4000",
+            "ConsumerFriendlyTitleName": "Maximum Torque @ RPM",
+            "ConsumerFriendlyHeaderName": "Engine",
+            "MOSVisible": true
+          },
+          {
+            "value": "None",
+            "ConsumerFriendlyTitleName": "Engine Oil Cooler",
+            "ConsumerFriendlyHeaderName": "Engine",
+            "MOSVisible": true
+          },
+          {
+            "value": "44G",
+            "ConsumerFriendlyTitleName": "Transmission Order Code",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "Automatic w/OD",
+            "ConsumerFriendlyTitleName": "Transmission Description",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "10",
+            "ConsumerFriendlyTitleName": "Number of Transmission Speeds",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "4.62",
+            "ConsumerFriendlyTitleName": "First Gear Ratio (:1)",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "2.92",
+            "ConsumerFriendlyTitleName": "Second Gear Ratio (:1)",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "2.13",
+            "ConsumerFriendlyTitleName": "Third Gear Ratio (:1)",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "1.77",
+            "ConsumerFriendlyTitleName": "Fourth Gear Ratio (:1)",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "1.52",
+            "ConsumerFriendlyTitleName": "Fifth Gear Ratio (:1)",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "1.28",
+            "ConsumerFriendlyTitleName": "Sixth Gear Ratio (:1)",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "1.00",
+            "ConsumerFriendlyTitleName": "Seventh Gear Ratio (:1)",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "0.85",
+            "ConsumerFriendlyTitleName": "Eighth Gear Ratio (:1)",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "4.70",
+            "ConsumerFriendlyTitleName": "Reverse Ratio (:1)",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "Electronic",
+            "ConsumerFriendlyTitleName": "Transfer Case Model",
+            "ConsumerFriendlyHeaderName": "Transmission",
+            "MOSVisible": true
+          },
+          {
+            "value": "48",
+            "ConsumerFriendlyTitleName": "Fuel Capacity / Gas Tank Size",
+            "ConsumerFriendlyHeaderName": "Fuel Tank",
+            "MOSVisible": true
+          },
+          {
+            "value": "176",
+            "ConsumerFriendlyTitleName": "Wheelbase (inches)",
+            "ConsumerFriendlyHeaderName": "Exterior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "266.2",
+            "ConsumerFriendlyTitleName": "Length (inches)",
+            "ConsumerFriendlyHeaderName": "Exterior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "80",
+            "ConsumerFriendlyTitleName": "Width, without mirrors (inches)",
+            "ConsumerFriendlyHeaderName": "Exterior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "81.1",
+            "ConsumerFriendlyTitleName": "Height (inches)",
+            "ConsumerFriendlyHeaderName": "Exterior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "0.00",
+            "ConsumerFriendlyTitleName": "Body Length",
+            "ConsumerFriendlyHeaderName": "Exterior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "8.5",
+            "ConsumerFriendlyTitleName": "Ground Clearance, Front",
+            "ConsumerFriendlyHeaderName": "Exterior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "5",
+            "ConsumerFriendlyTitleName": "Passenger / Seating Capacity",
+            "ConsumerFriendlyHeaderName": "Interior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "40.8",
+            "ConsumerFriendlyTitleName": "Front Head Room (inches)",
+            "ConsumerFriendlyHeaderName": "Interior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "43.9",
+            "ConsumerFriendlyTitleName": "Front Leg Room (inches)",
+            "ConsumerFriendlyHeaderName": "Interior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "66.7",
+            "ConsumerFriendlyTitleName": "Front Shoulder Room (inches)",
+            "ConsumerFriendlyHeaderName": "Interior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "62.5",
+            "ConsumerFriendlyTitleName": "Front Hip Room (inches)",
+            "ConsumerFriendlyHeaderName": "Interior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "40.4",
+            "ConsumerFriendlyTitleName": "Second Row Head Room (inches)",
+            "ConsumerFriendlyHeaderName": "Interior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "43.6",
+            "ConsumerFriendlyTitleName": "Second Row Leg Room (inches)",
+            "ConsumerFriendlyHeaderName": "Interior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "65.9",
+            "ConsumerFriendlyTitleName": "Second Row Shoulder Room (inches)",
+            "ConsumerFriendlyHeaderName": "Interior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "64.7",
+            "ConsumerFriendlyTitleName": "Second Row Hip Room (inches)",
+            "ConsumerFriendlyHeaderName": "Interior Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "98.1",
+            "ConsumerFriendlyTitleName": "Cargo Bed Length (inches)",
+            "ConsumerFriendlyHeaderName": "Cargo Area Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "66.9",
+            "ConsumerFriendlyTitleName": "Cargo Bed Width at Floor (inches)",
+            "ConsumerFriendlyHeaderName": "Cargo Area Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "50.5",
+            "ConsumerFriendlyTitleName": "Cargo Bed Width Between Wheelhousings (inches)",
+            "ConsumerFriendlyHeaderName": "Cargo Area Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "21.1",
+            "ConsumerFriendlyTitleName": "Cargo Bed Height (inches)",
+            "ConsumerFriendlyHeaderName": "Cargo Area Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "78.5",
+            "ConsumerFriendlyTitleName": "Cargo Space/Area (cubic feet)",
+            "ConsumerFriendlyHeaderName": "Cargo Area Dimensions",
+            "MOSVisible": true
+          },
+          {
+            "value": "Re-Circulating Ball",
+            "ConsumerFriendlyTitleName": "Steering Type",
+            "ConsumerFriendlyHeaderName": "Steering",
+            "MOSVisible": true
+          },
+          {
+            "value": "57.8",
+            "ConsumerFriendlyTitleName": "Turning Diameter / Radius, curb to curb (feet)",
+            "ConsumerFriendlyHeaderName": "Steering",
+            "MOSVisible": true
+          },
+          {
+            "value": "Other",
+            "ConsumerFriendlyTitleName": "Front Suspension Type",
+            "ConsumerFriendlyHeaderName": "Suspension",
+            "MOSVisible": true
+          },
+          {
+            "value": "Leaf",
+            "ConsumerFriendlyTitleName": "Rear Suspension Type",
+            "ConsumerFriendlyHeaderName": "Suspension",
+            "MOSVisible": true
+          },
+          {
+            "value": "4-Wheel Disc",
+            "ConsumerFriendlyTitleName": "Brake Type",
+            "ConsumerFriendlyHeaderName": "Brakes",
+            "MOSVisible": true
+          },
+          {
+            "value": "4-Wheel",
+            "ConsumerFriendlyTitleName": "Anti-Lock-Braking System",
+            "ConsumerFriendlyHeaderName": "Brakes",
+            "MOSVisible": true
+          },
+          {
+            "value": "14.3",
+            "ConsumerFriendlyTitleName": "Front Brake Rotors, diameter x thickness (inches)",
+            "ConsumerFriendlyHeaderName": "Brakes",
+            "MOSVisible": true
+          },
+          {
+            "value": "14.3",
+            "ConsumerFriendlyTitleName": "Rear Brake Rotors, diameter x thickness (inches)",
+            "ConsumerFriendlyHeaderName": "Brakes",
+            "MOSVisible": true
+          },
+          {
+            "value": "20 X 8",
+            "ConsumerFriendlyTitleName": "Front Wheel Size (inches)",
+            "ConsumerFriendlyHeaderName": "Wheels and Tires",
+            "MOSVisible": true
+          },
+          {
+            "value": "Aluminum",
+            "ConsumerFriendlyTitleName": "Front Wheel Material",
+            "ConsumerFriendlyHeaderName": "Wheels and Tires",
+            "MOSVisible": true
+          },
+          {
+            "value": "LT275/65SR20",
+            "ConsumerFriendlyTitleName": "Front Tire Size",
+            "ConsumerFriendlyHeaderName": "Wheels and Tires",
+            "MOSVisible": true
+          },
+          {
+            "value": "20 X 8",
+            "ConsumerFriendlyTitleName": "Rear Wheel Size (inches)",
+            "ConsumerFriendlyHeaderName": "Wheels and Tires",
+            "MOSVisible": true
+          },
+          {
+            "value": "Aluminum",
+            "ConsumerFriendlyTitleName": "Rear Wheel Material",
+            "ConsumerFriendlyHeaderName": "Wheels and Tires",
+            "MOSVisible": true
+          },
+          {
+            "value": "LT275/65SR20",
+            "ConsumerFriendlyTitleName": "Rear Tire Size",
+            "ConsumerFriendlyHeaderName": "Wheels and Tires",
+            "MOSVisible": true
+          },
+          {
+            "value": "Full-Size",
+            "ConsumerFriendlyTitleName": "Spare Wheel Size (inches)",
+            "ConsumerFriendlyHeaderName": "Wheels and Tires",
+            "MOSVisible": true
+          },
+          {
+            "value": "Steel",
+            "ConsumerFriendlyTitleName": "Spare Wheel Material",
+            "ConsumerFriendlyHeaderName": "Wheels and Tires",
+            "MOSVisible": true
+          },
+          {
+            "value": "Full-Size",
+            "ConsumerFriendlyTitleName": "Spare Tire Size",
+            "ConsumerFriendlyHeaderName": "Wheels and Tires",
+            "MOSVisible": true
+          },
+          {
+            "value": "17800",
+            "ConsumerFriendlyTitleName": "Maximum Towing Capacity (pounds)",
+            "ConsumerFriendlyHeaderName": "Towing",
+            "MOSVisible": true
+          },
+          {
+            "value": "5000",
+            "ConsumerFriendlyTitleName": "Maximum Trailer Weight, dead weight hitch (pounds)",
+            "ConsumerFriendlyHeaderName": "Towing",
+            "MOSVisible": true
+          },
+          {
+            "value": "500",
+            "ConsumerFriendlyTitleName": "Maximum Tongue Weight, dead weight hitch (pounds)",
+            "ConsumerFriendlyHeaderName": "Towing",
+            "MOSVisible": true
+          },
+          {
+            "value": "17800",
+            "ConsumerFriendlyTitleName": "Maximum Trailer Weight, weight distributing hitch (pounds)",
+            "ConsumerFriendlyHeaderName": "Towing",
+            "MOSVisible": true
+          },
+          {
+            "value": "1780",
+            "ConsumerFriendlyTitleName": "Maximum Tongue Weight, weight distributing hitch (pounds)",
+            "ConsumerFriendlyHeaderName": "Towing",
+            "MOSVisible": true
+          },
+          {
+            "value": "7062",
+            "ConsumerFriendlyTitleName": "Base Curb Weight (pounds)",
+            "ConsumerFriendlyHeaderName": "Weight Information",
+            "MOSVisible": true
+          },
+          {
+            "value": "0.00",
+            "ConsumerFriendlyTitleName": "Total Option Weight (pounds)",
+            "ConsumerFriendlyHeaderName": "Weight Information",
+            "MOSVisible": true
+          },
+          {
+            "value": "4901.00",
+            "ConsumerFriendlyTitleName": "Maximum Payload Capacity (pounds)",
+            "ConsumerFriendlyHeaderName": "Weight Information",
+            "MOSVisible": true
+          },
+          {
+            "value": "4901.00",
+            "ConsumerFriendlyTitleName": "As Spec'd Payload Capacity (pounds)",
+            "ConsumerFriendlyHeaderName": "Weight Information",
+            "MOSVisible": true
+          },
+          {
+            "value": "11900.00",
+            "ConsumerFriendlyTitleName": "Gross Vehicle Weight Rating (pounds)",
+            "ConsumerFriendlyHeaderName": "Weight Information",
+            "MOSVisible": true
+          },
+          {
+            "value": "5600",
+            "ConsumerFriendlyTitleName": "Front Gross Axle Weight Rating (pounds)",
+            "ConsumerFriendlyHeaderName": "Weight Information",
+            "MOSVisible": true
+          },
+          {
+            "value": "7230",
+            "ConsumerFriendlyTitleName": "Rear Gross Axle Weight Rating (pounds)",
+            "ConsumerFriendlyHeaderName": "Weight Information",
+            "MOSVisible": true
+          },
+          {
+            "value": "6999.00",
+            "ConsumerFriendlyTitleName": "Curb Weight",
+            "ConsumerFriendlyHeaderName": "Weight Information",
+            "MOSVisible": true
+          },
+          {
+            "value": "0",
+            "ConsumerFriendlyTitleName": "Payload Weight Front",
+            "ConsumerFriendlyHeaderName": "Weight Information",
+            "MOSVisible": true
+          },
+          {
+            "value": "750",
+            "ConsumerFriendlyTitleName": "Cold Cranking Amps @ 0° F (2nd)",
+            "ConsumerFriendlyHeaderName": "Electrical",
+            "MOSVisible": true
+          },
+          {
+            "value": "750",
+            "ConsumerFriendlyTitleName": "Cold Cranking Amps @ 0° F",
+            "ConsumerFriendlyHeaderName": "Electrical",
+            "MOSVisible": true
+          },
+          {
+            "value": "250 & 160",
+            "ConsumerFriendlyTitleName": "Maximum Alternator Capacity (amps)",
+            "ConsumerFriendlyHeaderName": "Electrical",
+            "MOSVisible": true
+          },
+          {
+            "value": "N/A / N/A",
+            "ConsumerFriendlyTitleName": "Range, city/highway (miles)",
+            "ConsumerFriendlyHeaderName": "Fuel Economy and Range",
+            "MOSVisible": true
+          },
+          {
+            "value": "N/A / N/A / N/A",
+            "ConsumerFriendlyTitleName": "EPA Fuel Economy, combined/city/highway (mpg)",
+            "ConsumerFriendlyHeaderName": "Fuel Economy and Range",
+            "MOSVisible": true
+          }
+        ]
+      }
+    },
+    "technicalSpecifications": []
+  }
+}
